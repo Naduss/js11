@@ -1,32 +1,34 @@
-const offer_content = `{
-    "productOne":{
+const offer_content = `{ 
+    ["cart_items":
+    "products_idOne":{
         "productName": "dressOne",
         "prouctInform":"forMan",
         "productPrice": 52
     } 
-    "productTwo":{
+    "products_idTwo":{
         "productName":"dressTwo",
         "prouctInform":"forWomen",
         "productPrice":52
     }
-    "productThree":{
+    "products_idThree":{
         "productName":"dressThree",
         "prouctInform":"forMan",
         "productPrice":52
     }
-    "productFour":{
+    "products_idFour":{
         "productName":"dressFour",
         "prouctInform":"forMan",
         "productPrice":52
     }
-    "productFive":{
+    "products_idFive":{
         "productName":"dressFive",
         "prouctInform":"forWomen",
         "productPrice":52
     }
-    "productSix":{
+    "products_idSix":{
         "productName":"dressSix",
         "prouctInform":"forWomen",
         "productPrice":52
     }
+]
 }`
